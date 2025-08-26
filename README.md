@@ -17,9 +17,6 @@ Este repositório documenta passo a passo como criar, configurar, conectar e ger
 5. [Limpar recursos](passos/05-gerenciar-recursos.md)
 6. [Configurar desligamento automático](passos/06-desligamento-automatico.md)
 
-## 🖼️ Capturas de Tela
-
-As imagens estão disponíveis na pasta [`imagens/`](imagens/).
 
 ## 📚 Referências
 
